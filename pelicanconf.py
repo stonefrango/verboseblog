@@ -28,4 +28,4 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-DEFAULT_METADATA = {'<meta name="fediverse:creator" content="@stonefrangowlakis@mastodon.social" />'}
+DEFAULT_METADATA = {"fediverse:creator": "@stonefrangowlakis@mastodon.social"}
