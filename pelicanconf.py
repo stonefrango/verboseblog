@@ -1,6 +1,6 @@
 AUTHOR = 'Stone Frangowlakis'
 SITENAME = 'verbose'
-SITEURL = ""
+SITEURL = "https://verbose.s-t.one"
 
 PATH = "content"
 
