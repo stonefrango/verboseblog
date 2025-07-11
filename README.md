@@ -1,0 +1,2 @@
+# verbose
+blog for ramblings
