@@ -15,6 +15,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+THEME = "/pelican-themes/zurb-F5-basic"
+
 # Blogroll
 LINKS = (
 )
@@ -28,4 +30,8 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-DEFAULT_METADATA = {"fediverse:creator": "@stonefrangowlakis@mastodon.social"}
+# DEFAULT_METADATA = {"fediverse:creator": "@stonefrangowlakis@mastodon.social"}
+# LOAD_CONTENT_CACHE = False
+# MASTODON_VISIBILITY = 'public'
+# PLUGIN_PATHS = ["plugins", "/plugins"]
+# PLUGINS = ['fediverse']
